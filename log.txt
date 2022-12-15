@@ -1,0 +1,164 @@
+груд. 14, 2022 5:04:47 ПП com.example.demo.DAO.DBManager <init>
+INFO: getting connection with database
+груд. 14, 2022 5:04:48 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:04:48 ПП com.example.demo.DAO.DBManager selectAverageConsumption
+INFO: selecting average consumption
+груд. 14, 2022 5:04:48 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:04:48 ПП com.example.demo.Model.Service getTotalPrice
+INFO: showing total price
+груд. 14, 2022 5:04:48 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:04:48 ПП com.example.demo.Model.Service getTotalWeight
+INFO: showing total weight
+груд. 14, 2022 5:04:48 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:04:48 ПП com.example.demo.DAO.DBManager selectPack
+INFO: selecting pack
+груд. 14, 2022 5:04:48 ПП com.example.demo.Model.Service getConditionList
+INFO: getting condition map
+груд. 14, 2022 5:04:48 ПП com.example.demo.DAO.DBManager selectCondition
+INFO: selecting condition
+груд. 14, 2022 5:04:48 ПП com.example.demo.DAO.DBManager selectIdAndName
+INFO: selecting id and name
+груд. 14, 2022 5:04:48 ПП com.example.demo.Model.Service getSortList
+INFO: getting sort map
+груд. 14, 2022 5:04:48 ПП com.example.demo.DAO.DBManager selectIdAndName
+INFO: selecting id and name
+груд. 14, 2022 5:05:38 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:05:38 ПП com.example.demo.DAO.DBManager selectAverageConsumption
+INFO: selecting average consumption
+груд. 14, 2022 5:05:38 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:05:38 ПП com.example.demo.Model.Service getTotalPrice
+INFO: showing total price
+груд. 14, 2022 5:05:38 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:05:38 ПП com.example.demo.Model.Service getTotalWeight
+INFO: showing total weight
+груд. 14, 2022 5:05:38 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:05:39 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:05:39 ПП com.example.demo.DAO.DBManager selectAverageConsumption
+INFO: selecting average consumption
+груд. 14, 2022 5:05:39 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:05:39 ПП com.example.demo.Model.Service getTotalPrice
+INFO: showing total price
+груд. 14, 2022 5:05:39 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:05:39 ПП com.example.demo.Model.Service getTotalWeight
+INFO: showing total weight
+груд. 14, 2022 5:05:39 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:05:50 ПП com.example.demo.Model.Service deletePack
+INFO: deleting pack
+груд. 14, 2022 5:05:50 ПП com.example.demo.DAO.DBManager deletePack
+INFO: deleting coffee
+груд. 14, 2022 5:05:50 ПП com.example.demo.DAO.DBManager deleteById
+INFO: deleting something
+груд. 14, 2022 5:05:50 ПП com.example.demo.DAO.DBManager selectPack
+INFO: selecting pack
+груд. 14, 2022 5:05:51 ПП com.example.demo.Model.Service deleteCondition
+INFO: deleting condition
+груд. 14, 2022 5:05:51 ПП com.example.demo.DAO.DBManager deleteCondition
+INFO: deleting coffee
+груд. 14, 2022 5:05:51 ПП com.example.demo.DAO.DBManager deleteById
+INFO: deleting something
+груд. 14, 2022 5:05:51 ПП com.example.demo.Model.Service getConditionList
+INFO: getting condition map
+груд. 14, 2022 5:05:51 ПП com.example.demo.DAO.DBManager selectCondition
+INFO: selecting condition
+груд. 14, 2022 5:05:51 ПП com.example.demo.DAO.DBManager selectIdAndName
+INFO: selecting id and name
+груд. 14, 2022 5:05:52 ПП com.example.demo.Model.Service deleteCoffee
+INFO: deleting coffee
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager deleteCoffee
+INFO: deleting coffee
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager deleteById
+INFO: deleting something
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager selectAverageConsumption
+INFO: selecting average consumption
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:05:52 ПП com.example.demo.Model.Service getTotalPrice
+INFO: showing total price
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:05:52 ПП com.example.demo.Model.Service getTotalWeight
+INFO: showing total weight
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:05:52 ПП com.example.demo.Model.Service deleteSort
+INFO: deleting sort
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager deleteSort
+INFO: deleting coffee
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager deleteById
+INFO: deleting something
+груд. 14, 2022 5:05:52 ПП com.example.demo.Model.Service getSortList
+INFO: getting sort map
+груд. 14, 2022 5:05:52 ПП com.example.demo.DAO.DBManager selectIdAndName
+INFO: selecting id and name
+груд. 14, 2022 5:07:55 ПП com.example.demo.Model.Service searchCoffee
+INFO: searching coffee
+груд. 14, 2022 5:07:55 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:07:55 ПП com.example.demo.DAO.DBManager selectAverageConsumption
+INFO: selecting average consumption
+груд. 14, 2022 5:07:55 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:07:55 ПП com.example.demo.Model.Service getTotalPrice
+INFO: showing total price
+груд. 14, 2022 5:07:55 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:07:55 ПП com.example.demo.Model.Service getTotalWeight
+INFO: showing total weight
+груд. 14, 2022 5:07:55 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:07:57 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:07:57 ПП com.example.demo.DAO.DBManager selectAverageConsumption
+INFO: selecting average consumption
+груд. 14, 2022 5:07:57 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:07:57 ПП com.example.demo.Model.Service getTotalPrice
+INFO: showing total price
+груд. 14, 2022 5:07:57 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:07:57 ПП com.example.demo.Model.Service getTotalWeight
+INFO: showing total weight
+груд. 14, 2022 5:07:57 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:09:32 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:09:32 ПП com.example.demo.DAO.DBManager selectAverageConsumption
+INFO: selecting average consumption
+груд. 14, 2022 5:09:32 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:09:32 ПП com.example.demo.Model.Service getTotalPrice
+INFO: showing total price
+груд. 14, 2022 5:09:32 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:09:32 ПП com.example.demo.Model.Service getTotalWeight
+INFO: showing total weight
+груд. 14, 2022 5:09:32 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:09:33 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:09:33 ПП com.example.demo.DAO.DBManager selectAverageConsumption
+INFO: selecting average consumption
+груд. 14, 2022 5:09:33 ПП com.example.demo.DAO.DBManager selectCoffee
+INFO: selecting coffee
+груд. 14, 2022 5:09:33 ПП com.example.demo.Model.Service getTotalPrice
+INFO: showing total price
+груд. 14, 2022 5:09:33 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
+груд. 14, 2022 5:09:33 ПП com.example.demo.Model.Service getTotalWeight
+INFO: showing total weight
+груд. 14, 2022 5:09:33 ПП com.example.demo.DAO.DBManager selectSum
+INFO: selecting sum
